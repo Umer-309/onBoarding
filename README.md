@@ -6,6 +6,8 @@ A modern onboarding flow built with React, TypeScript, and Vite. This project im
 
 1. Clone or download the project
 ```bash
+git clone https://github.com/Umer-309/onBoarding.git
+# or
 Download and unzip the project
 ```
 
